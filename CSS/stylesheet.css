@@ -41,3 +41,10 @@ img
 	margin: auto;
 	width: 30%;
 }
+
+.Pipe-Button:hover
+{
+	display: inline-block;
+	margin: auto;
+	width: 35%;
+}
