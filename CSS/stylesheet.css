@@ -1,0 +1,43 @@
+body
+{
+	background-color: black;
+	color: white;
+	font-family: Ariel, sans-serif;
+}
+
+h1
+{
+	text-align: center;
+	font-size: 40pt;
+}
+
+p
+{
+	font-size: 14pt;
+}
+
+img
+{
+	display: block;
+	margin: auto;
+}
+
+#GreenText
+{
+	font-size: 18pt;
+	color: #33cc33;
+}
+
+#WarpZone
+{
+	width: 360px;
+	display: block;
+	margin: auto;
+}
+
+.Pipe-Button
+{
+	display: inline-block;
+	margin: auto;
+	width: 30%;
+}
